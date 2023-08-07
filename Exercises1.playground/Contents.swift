@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 // Programa que pide los numeros del 1 al 20.
 
